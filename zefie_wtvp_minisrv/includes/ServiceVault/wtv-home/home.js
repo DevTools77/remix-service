@@ -263,7 +263,7 @@ data += `
 <td valign="top" colspan=4 absheight=80 >
 &#149;&nbsp; Updated cSetup from 3.0 to 3.1<br>
 &#149;&nbsp; Updated setup/register a<br>
-&#149;&nbsp; Redesigned homepage based on MattMan69's HackTV<br>
+&#149;&nbsp; Updated some messages on the home screen (You are already here)<br>
 &#149;&nbsp; Added a new minisrv logo<br>
 </table>
 </table>
