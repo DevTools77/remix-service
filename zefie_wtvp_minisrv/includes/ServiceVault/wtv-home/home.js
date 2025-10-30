@@ -38,7 +38,7 @@ const ownMinisrv = new clientShowAlert({
 
 const supportZefieAlert = new clientShowAlert({
 	'image': minisrv_config.config.service_logo,
-	'message': "If you would like to support zefie or minisrv, please visit the following link on your PC:<br><br><font size=-1><strong>https://zef.pw/helpminisrv</strong></font>",
+	'message': "If you would like to support coltonsr77 or WebTV Remix, please visit the following link on your PC:<br><br><font size=-1><strong>https://zef.pw/helpminisrv</strong></font>",
 	'buttonlabel1': "Okay",
 	'buttonaction1': "client:donothing",
 	'noback': true,
