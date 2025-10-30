@@ -1,9 +1,9 @@
 {
-  "name": "zefie_wtvp_minisrv",
+  "name": "coltonsr77_wtvp_minisrv",
   "version": "0.9.67-dev",
   "description": "WebTV Service (WTVP) Emulation Server",
   "main": "app.js",
-  "homepage": "https://github.com/zefie/zefie_wtvp_minisrv",
+  "homepage": "https://github.com/coltonsr77/WebTV-Remix-Beta",
   "license": "GPL3",
   "scripts": {
     "start": "node app.js",
@@ -13,12 +13,12 @@
     "modem-proxy": "node modem_proxy.js"
   },
   "author": {
-    "name": "zefie",
+    "name": "coltonsr77",
     "email": "zefie@zefie.net",
     "url": "https://zef.pw/"
   },
   "bugs": {
-    "url": "https://github.com/zefie/zefie_wtvp_minisrv/issues"
+    "url": "https://github.com/coltonsr77/WebTV-Remix-Beta/issues"
   },
   "funding": {
     "type": "patreon",
@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zefie/zefie_wtvp_minisrv.git"
+    "url": "https://github.com/coltonsr77/WebTV-Remix-Beta.git"
   },
   "dependencies": {
     "@serialport/parser-readline": "^13.0.0",
