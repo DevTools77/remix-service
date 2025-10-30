@@ -11,7 +11,7 @@ wtv-boot-url: wtv-1800:/preregister
 `
 	data = `<html>
 <head>
-<title>Connect Setup v3.0-minisrv</title>
+<title>Connect Setup v3.1-minisrv</title>
 <DISPLAY noscroll allowoffline notvaudio hideoptions switchtowebmode noreconnectalert>
 </head>
 <body bgcolor="#3C2F47" text="#cbcbcb" link="#aaaaaa"
@@ -39,7 +39,7 @@ Content-Type: text/html`
 
 	data = `<html>
 <head>
-<title>Connect Setup v3.0-minisrv</title>
+<title>Connect Setup v3.1-minisrv</title>
 <DISPLAY noscroll notvaudio >
 </head>
 <body hspace=0 vspace=0 fontsize=medium onload=updateService() background=/ROMCache/bgpattern.gif bgcolor=#3C2F47 text=c6c6c6 link=0080ff vlink=0080ff>
@@ -55,7 +55,7 @@ Content-Type: text/html`
   </tr>
 </table>
 
-<h2>&nbsp;Connection Setup v3.0-minisrv </h2>
+<h2>&nbsp;Connection Setup v3.1-minisrv </h2>
 <hr>
 
 	  <script>
