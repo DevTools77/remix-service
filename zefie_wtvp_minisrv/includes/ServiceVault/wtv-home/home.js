@@ -263,8 +263,8 @@ data += `
 <td valign="top" colspan=4 absheight=80 >
 &#149;&nbsp; Updated cSetup from 3.0-minisrv to 3.0-WebTV Remix<br>
 &#149;&nbsp; Updated setup/register<br>
-&#149;&nbsp; Updated some messages on the home screen<br>
-&#149;&nbsp; Updated everything to "WebTV Remix"<br>
+&#149;&nbsp; Updated a message on the home screen<br>
+&#149;&nbsp; Now has a pubilc and beta server<br>
 </table>
 </table>
 
