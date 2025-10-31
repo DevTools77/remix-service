@@ -1,6 +1,6 @@
 {
   "name": "coltonsr77_wtvp_minisrv",
-  "version": "0.9.67-dev",
+  "version": "0.9.67-remix",
   "description": "WebTV Service (WTVP) Emulation Server",
   "main": "app.js",
   "homepage": "https://github.com/coltonsr77/WebTV-Remix-Beta",
