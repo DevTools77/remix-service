@@ -264,7 +264,7 @@ data += `
 &#149;&nbsp; Updated cSetup from 3.0 to 3.1<br>
 &#149;&nbsp; Updated setup/register<br>
 &#149;&nbsp; Updated some messages on the home screen<br>
-&#149;&nbsp; Updated everything from "minisrv" to "WebTV Remix"<br>
+&#149;&nbsp; Updated everything to "WebTV Remix"<br>
 </table>
 </table>
 
