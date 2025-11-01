@@ -261,10 +261,10 @@ data += `
 <td absheight="6">
 <tr>
 <td valign="top" colspan=4 absheight=80 >
-&#149;&nbsp; Updated cSetup from 3.0-minisrv to 3.0-WebTV Remix<br>
-&#149;&nbsp; Updated setup/register<br>
-&#149;&nbsp; Updated a message on the home screen<br>
-&#149;&nbsp; Now has a pubilc and beta server<br>
+&#149;&nbsp; Updated cSetup from 3.0-minisrv to 3.1-Remix<br>
+&#149;&nbsp; Updated register<br>
+&#149;&nbsp; Updated "Help zefie" on the home screen<br>
+&#149;&nbsp; For now we only have a beta server<br>
 </table>
 </table>
 
