@@ -68,7 +68,7 @@ switch (wtvshared.getManufacturer(session_data.ssid, true)) {
         data += `Call RCA/Thomson customer service at 1-800-722-9599.`;
         break;
     case "AE":
-        data += `Contact coltonsr77 on Discord (teamcolton77)`
+        data += `Contact coltonsr77 on Discord (coltonsr77)`
         break;
     default:
         data += `Contact the manufacturer's customer service department.`
