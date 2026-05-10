@@ -54,7 +54,6 @@ correct an item, press <b>Back</b>.<p>`;
 <tr><td maxlines=1 >
 <tt><font color=#d1d3d3><spacer type=horizontal size=17>${request_headers.query.subscriber_username}</font></tt></a>
 </table>
-<p>
 </tr>`;
         if (isOldBuild) main_data += '</table>';
         const form_data = `
