@@ -89,8 +89,8 @@ if (session_data.data_store.wtvsec_login) {
 				//	else file_path = wtvshared.getServiceDep("/wtv-1800/tellyscripts/LC2/LC2_WTV_18006138199.tok", true);
 				//} else {
 					template = wtvshared.getServiceDep("/wtv-1800/tellyscripts/base.template.tsf")
-					if (session_data.get("wtv-open-access")) template += wtvshared.getServiceDep("/wtv-1800/tellyscripts/LC2/LC2.openisp.template.tsf");
-					else template += wtvshared.getServiceDep("/wtv-1800/tellyscripts/LC2/LC2.normal.template.tsf");
+					if (session_data.get("wtv-open-access")) template += wtvshared.getServiceDep("/wtv-1800/tellyscripts/LC2/LC2.openisp.tsf");
+					else template += wtvshared.getServiceDep("/wtv-1800/tellyscripts/LC2/LC2.normal.tsf");
 				//}
 				break;
 
@@ -115,8 +115,8 @@ if (session_data.data_store.wtvsec_login) {
 				template_preprocessor.CLASSIC = true;
 				// if wtv-open-access: true then client expects OpenISP
 				template = wtvshared.getServiceDep("/wtv-1800/tellyscripts/base.template.tsf")
-				if (session_data.get("wtv-open-access")) template += wtvshared.getServiceDep("/wtv-1800/tellyscripts/bf0app/bf0app.openisp.template.tsf");
-				else template += wtvshared.getServiceDep("/wtv-1800/tellyscripts/bf0app/bf0app.normal.template.tsf");
+				if (session_data.get("wtv-open-access")) template += wtvshared.getServiceDep("/wtv-1800/tellyscripts/bf0app/bf0app.openisp.tsf");
+				else template += wtvshared.getServiceDep("/wtv-1800/tellyscripts/bf0app/bf0app.normal.tsf");
 				break;
 
 			// the following are not yet zefie generated and may have an unknown username/password attached
