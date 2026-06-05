@@ -56,7 +56,7 @@ V.90 Modem Firmware (Use common 56k technology)
 <tr>
 <td><a href="wtv-disk:/content/DownloadScreen.tmpl?diskmap=FreeDoom&amp;group=FreeDoom">FreeDoom</a></td>
 <td><a href="wtv-disk:/content/DownloadScreen.tmpl?diskmap=FreeDoom&amp;group=FreeDoom&force=true">!</a></td>
-<td><a href="client:boota?partition=DoomROM">Boot Game</a></td>
+<td><a href="client:boota?partition=DoomFROM">Boot Game</a></td>
 </tr>
 <tr>
 <td><a href="wtv-disk:/content/DownloadScreen.tmpl?diskmap=YDKJ&amp;group=YDKJ">You Don't Know Jack</a></td>
