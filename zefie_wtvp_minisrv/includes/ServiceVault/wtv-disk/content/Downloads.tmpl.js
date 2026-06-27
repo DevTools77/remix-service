@@ -29,7 +29,7 @@ Click the <b>!</b> to force download a specific file set.
 <td><a href="file://Disk/WTVS-Offline/Games.html">View MiniSrv Dashboard</a></td>
 </tr>
 </table>
-<h2> Modem Firmware</h2>
+<h2>Modem Firmware</h2>
 <i>These are always forced downloads</i>
 <ul>
 <li><a href="wtv-disk:/content/DownloadScreen.tmpl?diskmap=ModemFirmwareDel&amp;group=ModemFirmware&force=true">
