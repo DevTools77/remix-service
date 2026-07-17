@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "@serialport/parser-readline": "^13.0.0",
-    "adm-zip": "^0.5.12",
+    "adm-zip": "^0.6.0",
     "cross-env": "^7.0.3",
     "crypto-js": "^4.2.0",
     "easy-crc": "0.0.2",
