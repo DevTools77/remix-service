@@ -44,7 +44,7 @@
     "php-serialize": "^5.0.1",
     "proxy-agent": "^6.4.0",
     "rc4-crypto": "^1.5.0",
-    "sanitize-html": "^2.17.5",
+    "sanitize-html": "^2.17.7",
     "serialport": "^13.0.0",
     "sharp": "^0.35.0",
     "starttls": "^1.0.1",
