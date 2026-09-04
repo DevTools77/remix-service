@@ -2,7 +2,7 @@
 	"WTVS-Offline": {
 		"base": "file://Disk/WTVS-Offline/",
 		"location": "content/WTVS-Offline/",		
-		"partition_size": 55574528,
+		"partition_size": 55574530,
 		"files": [
 			{
 				"file": "file://Disk/WTVS-Offline/AboutDoom.html"
