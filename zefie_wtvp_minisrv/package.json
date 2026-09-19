@@ -42,7 +42,7 @@
     "nunjucks": "^3.2.4",
     "pcap-parser": "^0.2.1",
     "php-serialize": "^5.0.1",
-    "proxy-agent": "^6.4.0",
+    "proxy-agent": "^8.0.2",
     "rc4-crypto": "^1.5.0",
     "sanitize-html": "^2.17.7",
     "serialport": "^13.0.0",
