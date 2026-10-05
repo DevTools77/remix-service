@@ -32,7 +32,7 @@
     "easy-crc": "1.1.0",
     "endianness": "^8.0.2",
     "express": "^5.2.1",
-    "follow-redirects": "^1.16.0",
+    "follow-redirects": "^1.16.1",
     "ftp": "^0.3.10",
     "html-entities": "^2.5.2",
     "iconv-lite": "^0.7.3",
