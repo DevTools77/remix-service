@@ -2180,6 +2180,12 @@
 			},
 			{
 				"file": "file://Disk/v1-rom-collab-bf0/Tools/WTVS/weather.html"
+			},
+			{
+				"file": "file://Disk/v1-rom-collab-bf0/Tools/wtv.html"
+			},
+			{
+				"file": "file://Disk/v1-rom-collab-bf0/Tools/wtv.js"
 			}
 		]
 	}
